@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">// 🔭 I'm currently working on my projects at Driven<br>// 🌱 I'm currently learning SQL<br>// 📫 You can reach me through vhvermaas@gmail.com</p>
+<p align="left">// 🔭 I'm currently working on my projects at Driven<br>// 🌱 I'm currently learning Infra<br>// 📫 You can reach me through vermaasvictor@gmail.com</p>
 
 ###
 
