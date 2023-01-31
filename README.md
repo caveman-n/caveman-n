@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Full-stack dev student at Driven Education</h4>
+<h4 align="center">Full-stack dev</h4>
 
 ###
 
