@@ -6,6 +6,7 @@
 
 ###
 <p align="left">// 🔭 I'm currently working on my projects at Driven<br>// 🌱 I'm currently learning AWS and Docker<br>// 📫 You can reach me through vermaasvictor@gmail.com</p>
+
 ###
 
 <h3 align="left">connect with me:</h3>
