@@ -5,12 +5,9 @@
 <h4 align="center">Full-stack dev</h4>
 
 ###
-<div display="flex"> 
 <p align="left">// 🔭 I'm currently working on my projects at Driven<br>// 🌱 I'm currently learning AWS and Docker<br>// 📫 You can reach me through vermaasvictor@gmail.com</p>
-  
-    [![vvmaas's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvmaas&layout=compact&hide_border=true&theme=tokyonight&locale=en)](https://github.com/vvmaas?tab=repositories) 
-</div>
-
+| 
+[![vvmaas's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvmaas&layout=compact&hide_border=true&theme=tokyonight&locale=en)](https://github.com/vvmaas?tab=repositories) 
 ###
 
 <h3 align="left">connect with me:</h3>
@@ -78,4 +75,5 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a> 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+
 
