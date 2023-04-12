@@ -5,7 +5,7 @@
 <h4 align="center">Full-stack dev</h4>
 
 ###
-<p align="left">// 🔭 I'm looking for a job position as a developer<br>// 🌱 I'm currently learning Django<br>// 📫 You can reach me through vermaasvictor@gmail.com</p>
+<p align="left">// 🔭 I'm looking for a job position as a developer<br>// 🌱 I'm currently learning DevOps<br>// 📫 You can reach me through vermaasvictor@gmail.com</p>
 
 ###
 
