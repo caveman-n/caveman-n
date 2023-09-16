@@ -5,7 +5,6 @@
 <h4 align="center">Full-stack dev</h4>
 
 ###
-<p align="left">// 🔭 I'm currently learning Spring Boot and Angular<br>// 📫 You can reach me through vermaasvictor@gmail.com</p>
 
 ###
 
